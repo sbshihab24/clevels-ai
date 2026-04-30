@@ -1,0 +1,37 @@
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Python cache and build output
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+build/
+dist/
+*.egg-info/
+
+# Test and coverage output
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local app data and generated indexes
+.clevel/
+data/
+
+# IDE and OS files
+.idea/
+.DS_Store
+Thumbs.db
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore

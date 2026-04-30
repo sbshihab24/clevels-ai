@@ -1,0 +1,14 @@
+streamlit==1.26.0
+openai>=1.0.0
+pydantic-settings>=1.0.0
+pydantic>=2.1.0
+python-dotenv
+pandas
+faiss-cpu
+numpy
+sentence-transformers
+python-multipart
+google-api-python-client>=2.86.0
+googlemaps>=4.10.0
+python-dateutil
+nbformat
